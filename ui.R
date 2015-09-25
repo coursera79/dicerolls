@@ -1,7 +1,5 @@
 library(shiny)
 
-data(euro)
-
 shinyUI(
     pageWithSidebar(
         headerPanel('Simulation of dice roll values'),
